@@ -14,6 +14,9 @@ Bingchen Miao<sup>1,2</sup>*, Yang Wu<sup>2</sup>*, Minghe Gao<sup>1</sup>, Qifa
 <sup>1</sup>Zhejiang University, <sup>2</sup>Ant Group, <sup>3</sup>National University of Singapore
 
 \*Equal Contribution.
+</div>
+
+
 
 ## 📖 Introduction
 Welcome to the official repository for the paper "Boosting Virtual Agent Learning and Reasoning: A Step-wise, Multi-dimensional, and Generalist Reward Model with Benchmark". In this work, we propose **Similar**, a **S**tep-w**i**se **M**ult**i**-dimensiona**l** Gener**a**list **R**eward Model designed to enhance the training and reasoning capabilities of Generalist Virtual Agents (GVAs) powered by Multimodal Large Language Models (MLLMs). This project addresses critical limitations in current GVA training paradigms, such as the reliance on outcome supervision and labor-intensive human annotations, by introducing a novel approach to fine-grained, step-wise supervision. We are excited to open-source our **Similar** reward model and the ***SRMEval*** test dataset, providing the research community with valuable resources to advance the development of virtual agents.
