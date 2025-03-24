@@ -7,7 +7,7 @@
 
 
 <div align="center">
-Bingchen Miao<sup>1,2</sup>*, Yang Wu<sup>2</sup>*, Minghe Gao<sup>1</sup>, Qifan Yu<sup>1</sup>, Wendong Bu<sup>1,2</sup>, Wenqiao Zhang<sup>1</sup>
+Bingchen Miao<sup>1,2</sup>*, Yang Wu<sup>2</sup>*, Minghe Gao<sup>1</sup>*, Qifan Yu<sup>1</sup>, Wendong Bu<sup>1,2</sup>, Wenqiao Zhang<sup>1</sup>
 
  Yunfei Li<sup>2</sup>, Siliang Tang<sup>1</sup>, Tat-Seng Chua<sup>3</sup>, Juncheng Li <sup>1</sup>
 
