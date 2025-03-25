@@ -25,7 +25,7 @@ Welcome to the official repository for the paper "Boosting Virtual Agent Learnin
 
 ## 🔥 News
 - We will release the benchmark, checkpoints and code soon.
-- [2025.03.24] We have released our [Paper](https://arxiv.org/) on arxiv.
+- [2025.03.24] We have released our [Paper](https://arxiv.org/abs/2503.18665) on arxiv.
 
 
 
@@ -83,7 +83,15 @@ Here are some cases of *SRMEval*.
 ## 📜 Citation
 If you find this work useful for your research, please cite our paper and star our git repo:
 ```bibtex
-
+@misc{miao2025boostingvirtualagentlearning,
+      title={Boosting Virtual Agent Learning and Reasoning: A Step-wise, Multi-dimensional, and Generalist Reward Model with Benchmark}, 
+      author={Bingchen Miao and Yang Wu and Minghe Gao and Qifan Yu and Wendong Bu and Wenqiao Zhang and Yunfei Li and Siliang Tang and Tat-Seng Chua and Juncheng Li},
+      year={2025},
+      eprint={2503.18665},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.18665}, 
+}
 ```
 
 
